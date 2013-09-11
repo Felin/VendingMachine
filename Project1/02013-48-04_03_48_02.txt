@@ -1,0 +1,33 @@
+=====================
+Drinks Machine
+=====================
+
+Dispenser for "Coca-Cola" Items sold: 0 Total cash: 0$
+Dispenser for "Cherry Coke" Items sold: 0 Total cash: 0$
+Dispenser for "Barqs Root Beer" Items sold: 0 Total cash: 0$
+Dispenser for "Barqs Root Beer (big)" Items sold: 0 Total cash: 0$
+Dispenser for "Capri Sun Orange (200ml)" Items sold: 0 Total cash: 0$
+Dispenser for "Fanta Orange Zero" Items sold: 0 Total cash: 0$
+Dispenser for "Innocent Kiwis" Items sold: 0 Total cash: 0$
+Dispenser for "Irn Bru" Items sold: 0 Total cash: 0$
+Dispenser for "Irn Bru Diet" Items sold: 0 Total cash: 0$
+Dispenser for "J2O Orange " Items sold: 0 Total cash: 0$
+Dispenser for "Lemonade Cloudy" Items sold: 0 Total cash: 0$
+=====================
+
+Items total: 0 TOTAL: 0$
+=====================
+Chocolates and snacks
+=====================
+
+Dispenser for "Mars" Items sold: 0 Total cash: 0$
+Dispenser for "Cadbury's Dairy Milk" Items sold: 0 Total cash: 0$
+Dispenser for "Bassett's Jelly Babies" Items sold: 0 Total cash: 0$
+Dispenser for "Milky Way" Items sold: 0 Total cash: 0$
+Dispenser for "Apple Slices" Items sold: 1 Total cash: 0.56$
+Dispenser for "Oil-Popped Popcorn" Items sold: 0 Total cash: 0$
+Dispenser for "  Raisins" Items sold: 0 Total cash: 0$
+Dispenser for "BBQ Chips" Items sold: 0 Total cash: 0$
+=====================
+
+Items total: 1 TOTAL: 0.56$
